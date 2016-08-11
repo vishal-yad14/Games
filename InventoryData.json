@@ -7,344 +7,306 @@
         {
           "id": "Floor_00",
           "Name": "Ground Floor",
-          "Apartments": {
-            "Apartment": [
-              {
-                "ID": "Apart_000",
-                "Area": "100",
-                "Status": "Sold"
-              },
-              {
-                "ID": "Apart_001",
-                "Area": "100",
-                "Status": "Not Sold"
-              }
-            ]
-          }
+          "Apartments": [
+            {
+              "ID": "Apart_000",
+              "Area": "100",
+              "Status": "Sold"
+            },
+            {
+              "ID": "Apart_001",
+              "Area": "100",
+              "Status": "Not Sold"
+            }
+          ]
         },
         {
           "id": "Floor_01",
           "Name": "Floor 1",
-          "Apartments": {
-            "Apartment": [
-              {
-                "ID": "Apart_010",
-                "Area": "100",
-                "Status": "Sold"
-              },
-              {
-                "ID": "Apart_011",
-                "Area": "100",
-                "Status": "Not Sold"
-              }
-            ]
-          }
+          "Apartments": [
+            {
+              "ID": "Apart_010",
+              "Area": "100",
+              "Status": "Sold"
+            },
+            {
+              "ID": "Apart_011",
+              "Area": "100",
+              "Status": "Not Sold"
+            }
+          ]
         },
         {
           "id": "Floor_02",
           "Name": "Floor 2",
-          "Apartments": {
-            "Apartment": [
-              {
-                "ID": "Apart_020",
-                "Area": "100",
-                "Status": "Sold"
-              },
-              {
-                "ID": "Apart_021",
-                "Area": "100",
-                "Status": "Not Sold"
-              }
-            ]
-          }
+          "Apartments": [
+            {
+              "ID": "Apart_020",
+              "Area": "100",
+              "Status": "Sold"
+            },
+            {
+              "ID": "Apart_021",
+              "Area": "100",
+              "Status": "Not Sold"
+            }
+          ]
         },
         {
           "id": "Floor_03",
           "Name": "Floor 3",
-          "Apartments": {
-            "Apartment": [
-              {
-                "ID": "Apart_030",
-                "Area": "100",
-                "Status": "Sold"
-              },
-              {
-                "ID": "Apart_031",
-                "Area": "100",
-                "Status": "Not Sold"
-              }
-            ]
-          }
+          "Apartments": [
+            {
+              "ID": "Apart_030",
+              "Area": "100",
+              "Status": "Sold"
+            },
+            {
+              "ID": "Apart_031",
+              "Area": "100",
+              "Status": "Not Sold"
+            }
+          ]
         },
         {
           "id": "Floor_04",
           "Name": "Floor 4",
-          "Apartments": {
-            "Apartment": [
-              {
-                "ID": "Apart_040",
-                "Area": "100",
-                "Status": "Sold"
-              },
-              {
-                "ID": "Apart_041",
-                "Area": "100",
-                "Status": "Not Sold"
-              }
-            ]
-          }
+          "Apartments": [
+            {
+              "ID": "Apart_040",
+              "Area": "100",
+              "Status": "Sold"
+            },
+            {
+              "ID": "Apart_041",
+              "Area": "100",
+              "Status": "Not Sold"
+            }
+          ]
         },
         {
           "id": "Floor_05",
           "Name": "Floor 5",
-          "Apartments": {
-            "Apartment": [
-              {
-                "ID": "Apart_050",
-                "Area": "100",
-                "Status": "Sold"
-              },
-              {
-                "ID": "Apart_051",
-                "Area": "100",
-                "Status": "Not Sold"
-              }
-            ]
-          }
+          "Apartments": [
+            {
+              "ID": "Apart_050",
+              "Area": "100",
+              "Status": "Sold"
+            },
+            {
+              "ID": "Apart_051",
+              "Area": "100",
+              "Status": "Not Sold"
+            }
+          ]
         },
         {
           "id": "Floor_06",
           "Name": "Floor 6",
-          "Apartments": {
-            "Apartment": [
-              {
-                "ID": "Apart_060",
-                "Area": "100",
-                "Status": "Sold"
-              },
-              {
-                "ID": "Apart_061",
-                "Area": "100",
-                "Status": "Not Sold"
-              }
-            ]
-          }
+          "Apartments": [
+            {
+              "ID": "Apart_060",
+              "Area": "100",
+              "Status": "Sold"
+            },
+            {
+              "ID": "Apart_061",
+              "Area": "100",
+              "Status": "Not Sold"
+            }
+          ]
         },
         {
           "id": "Floor_07",
           "Name": "Floor 7",
-          "Apartments": {
-            "Apartment": [
-              {
-                "ID": "Apart_070",
-                "Area": "100",
-                "Status": "Sold"
-              },
-              {
-                "ID": "Apart_071",
-                "Area": "100",
-                "Status": "Not Sold"
-              }
-            ]
-          }
+          "Apartments": [
+            {
+              "ID": "Apart_070",
+              "Area": "100",
+              "Status": "Sold"
+            },
+            {
+              "ID": "Apart_071",
+              "Area": "100",
+              "Status": "Not Sold"
+            }
+          ]
         },
         {
           "id": "Floor_08",
           "Name": "Floor 8",
-          "Apartments": {
-            "Apartment": [
-              {
-                "ID": "Apart_080",
-                "Area": "100",
-                "Status": "Sold"
-              },
-              {
-                "ID": "Apart_081",
-                "Area": "100",
-                "Status": "Not Sold"
-              }
-            ]
-          }
+          "Apartments": [
+            {
+              "ID": "Apart_080",
+              "Area": "100",
+              "Status": "Sold"
+            },
+            {
+              "ID": "Apart_081",
+              "Area": "100",
+              "Status": "Not Sold"
+            }
+          ]
         },
         {
           "id": "Floor_09",
           "Name": "Floor 9",
-          "Apartments": {
-            "Apartment": [
-              {
-                "ID": "Apart_090",
-                "Area": "100",
-                "Status": "Sold"
-              },
-              {
-                "ID": "Apart_091",
-                "Area": "100",
-                "Status": "Not Sold"
-              }
-            ]
-          }
+          "Apartments": [
+            {
+              "ID": "Apart_090",
+              "Area": "100",
+              "Status": "Sold"
+            },
+            {
+              "ID": "Apart_091",
+              "Area": "100",
+              "Status": "Not Sold"
+            }
+          ]
         },
         {
           "id": "Floor_010",
           "Name": "Floor 10",
-          "Apartments": {
-            "Apartment": [
-              {
-                "ID": "Apart_0100",
-                "Area": "100",
-                "Status": "Sold"
-              },
-              {
-                "ID": "Apart_0101",
-                "Area": "100",
-                "Status": "Not Sold"
-              }
-            ]
-          }
+          "Apartments": [
+            {
+              "ID": "Apart_0100",
+              "Area": "100",
+              "Status": "Sold"
+            },
+            {
+              "ID": "Apart_0101",
+              "Area": "100",
+              "Status": "Not Sold"
+            }
+          ]
         },
         {
           "id": "Floor_011",
           "Name": "Floor 11",
-          "Apartments": {
-            "Apartment": [
-              {
-                "ID": "Apart_0110",
-                "Area": "100",
-                "Status": "Sold"
-              },
-              {
-                "ID": "Apart_0111",
-                "Area": "100",
-                "Status": "Not Sold"
-              }
-            ]
-          }
+          "Apartments": [
+            {
+              "ID": "Apart_0110",
+              "Area": "100",
+              "Status": "Sold"
+            },
+            {
+              "ID": "Apart_0111",
+              "Area": "100",
+              "Status": "Not Sold"
+            }
+          ]
         },
         {
           "id": "Floor_012",
           "Name": "Floor 12",
-          "Apartments": {
-            "Apartment": [
-              {
-                "ID": "Apart_0120",
-                "Area": "100",
-                "Status": "Sold"
-              },
-              {
-                "ID": "Apart_0121",
-                "Area": "100",
-                "Status": "Not Sold"
-              }
-            ]
-          }
+          "Apartments": [
+            {
+              "ID": "Apart_0120",
+              "Area": "100",
+              "Status": "Sold"
+            },
+            {
+              "ID": "Apart_0121",
+              "Area": "100",
+              "Status": "Not Sold"
+            }
+          ]
         },
         {
           "id": "Floor_013",
           "Name": "Floor 13",
-          "Apartments": {
-            "Apartment": [
-              {
-                "ID": "Apart_0130",
-                "Area": "100",
-                "Status": "Sold"
-              },
-              {
-                "ID": "Apart_0131",
-                "Area": "100",
-                "Status": "Not Sold"
-              }
-            ]
-          }
+          "Apartments": [
+            {
+              "ID": "Apart_0130",
+              "Area": "100",
+              "Status": "Sold"
+            },
+            {
+              "ID": "Apart_0131",
+              "Area": "100",
+              "Status": "Not Sold"
+            }
+          ]
         },
         {
           "id": "Floor_014",
           "Name": "Floor 14",
-          "Apartments": {
-            "Apartment": [
-              {
-                "ID": "Apart_0140",
-                "Area": "100",
-                "Status": "Sold"
-              },
-              {
-                "ID": "Apart_0141",
-                "Area": "100",
-                "Status": "Not Sold"
-              }
-            ]
-          }
+          "Apartments": [
+            {
+              "ID": "Apart_0140",
+              "Area": "100",
+              "Status": "Sold"
+            },
+            {
+              "ID": "Apart_0141",
+              "Area": "100",
+              "Status": "Not Sold"
+            }
+          ]
         },
         {
           "id": "Floor_015",
           "Name": "Floor 15",
-          "Apartments": {
-            "Apartment": [
-              {
-                "ID": "Apart_0150",
-                "Area": "100",
-                "Status": "Sold"
-              },
-              {
-                "ID": "Apart_0151",
-                "Area": "100",
-                "Status": "Not Sold"
-              }
-            ]
-          }
+          "Apartments": [
+            {
+              "ID": "Apart_0150",
+              "Area": "100",
+              "Status": "Sold"
+            },
+            {
+              "ID": "Apart_0151",
+              "Area": "100",
+              "Status": "Not Sold"
+            }
+          ]
         },
         {
           "id": "Floor_016",
           "Name": "Floor 16",
-          "Apartments": {
-            "Apartment": [
-              {
-                "ID": "Apart_0160",
-                "Area": "100",
-                "Status": "Sold"
-              },
-              {
-                "ID": "Apart_0161",
-                "Area": "100",
-                "Status": "Not Sold"
-              }
-            ]
-          }
+          "Apartments": [
+            {
+              "ID": "Apart_0160",
+              "Area": "100",
+              "Status": "Sold"
+            },
+            {
+              "ID": "Apart_0161",
+              "Area": "100",
+              "Status": "Not Sold"
+            }
+          ]
         },
         {
           "id": "Floor_017",
           "Name": "Floor 17",
-          "Apartments": {
-            "Apartment": [
-              {
-                "ID": "Apart_0170",
-                "Area": "100",
-                "Status": "Sold"
-              },
-              {
-                "ID": "Apart_0171",
-                "Area": "100",
-                "Status": "Not Sold"
-              }
-            ]
-          }
+          "Apartments": [
+            {
+              "ID": "Apart_0170",
+              "Area": "100",
+              "Status": "Sold"
+            },
+            {
+              "ID": "Apart_0171",
+              "Area": "100",
+              "Status": "Not Sold"
+            }
+          ]
         },
         {
           "id": "Floor_018",
           "Name": "Terrace",
-          "Apartments": {
-            "Apartment": [
-              {
-                "ID": "Apart_0180",
-                "Area": "100",
-                "Status": "Sold"
-              },
-              {
-                "ID": "Apart_0181",
-                "Area": "100",
-                "Status": "Not Sold"
-              }
-            ]
-          }
+          "Apartments": [
+            {
+              "ID": "Apart_0180",
+              "Area": "100",
+              "Status": "Sold"
+            },
+            {
+              "ID": "Apart_0181",
+              "Area": "100",
+              "Status": "Not Sold"
+            }
+          ]
         }
       ]
     },
@@ -355,38 +317,34 @@
         {
           "id": "Floor_10",
           "Name": "Ground Floor",
-          "Apartments": {
-            "Apartment": [
-              {
-                "ID": "Apart_100",
-                "Area": "100",
-                "Status": "Sold"
-              },
-              {
-                "ID": "Apart_101",
-                "Area": "100",
-                "Status": "Not Sold"
-              }
-            ]
-          }
+          "Apartments": [
+            {
+              "ID": "Apart_100",
+              "Area": "100",
+              "Status": "Sold"
+            },
+            {
+              "ID": "Apart_101",
+              "Area": "100",
+              "Status": "Not Sold"
+            }
+          ]
         },
         {
           "id": "Floor_10",
           "Name": "Floor 1",
-          "Apartments": {
-            "Apartment": [
-              {
-                "ID": "Apart_110",
-                "Area": "100",
-                "Status": "Sold"
-              },
-              {
-                "ID": "Apart_111",
-                "Area": "100",
-                "Status": "Not Sold"
-              }
-            ]
-          }
+          "Apartments": [
+            {
+              "ID": "Apart_110",
+              "Area": "100",
+              "Status": "Sold"
+            },
+            {
+              "ID": "Apart_111",
+              "Area": "100",
+              "Status": "Not Sold"
+            }
+          ]
         }
       ]
     },
@@ -397,20 +355,18 @@
         {
           "id": "Floor_00",
           "Name": "Floor A",
-          "Apartments": {
-            "Apartment": [
-              {
-                "ID": "001",
-                "Area": "100",
-                "Status": "Sold"
-              },
-              {
-                "ID": "002",
-                "Area": "100",
-                "Status": "Not Sold"
-              }
-            ]
-          }
+          "Apartments": [
+            {
+              "ID": "001",
+              "Area": "100",
+              "Status": "Sold"
+            },
+            {
+              "ID": "002",
+              "Area": "100",
+              "Status": "Not Sold"
+            }
+          ]
         }
       ]
     },
@@ -421,20 +377,18 @@
         {
           "id": "Floor_00",
           "Name": "Floor A",
-          "Apartments": {
-            "Apartment": [
-              {
-                "ID": "001",
-                "Area": "100",
-                "Status": "Sold"
-              },
-              {
-                "ID": "002",
-                "Area": "100",
-                "Status": "Not Sold"
-              }
-            ]
-          }
+          "Apartments": [
+            {
+              "ID": "001",
+              "Area": "100",
+              "Status": "Sold"
+            },
+            {
+              "ID": "002",
+              "Area": "100",
+              "Status": "Not Sold"
+            }
+          ]
         }
       ]
     },
@@ -445,20 +399,18 @@
         {
           "id": "Floor_00",
           "Name": "Floor A",
-          "Apartments": {
-            "Apartment": [
-              {
-                "ID": "001",
-                "Area": "100",
-                "Status": "Sold"
-              },
-              {
-                "ID": "002",
-                "Area": "100",
-                "Status": "Not Sold"
-              }
-            ]
-          }
+          "Apartments": [
+            {
+              "ID": "001",
+              "Area": "100",
+              "Status": "Sold"
+            },
+            {
+              "ID": "002",
+              "Area": "100",
+              "Status": "Not Sold"
+            }
+          ]
         }
       ]
     }

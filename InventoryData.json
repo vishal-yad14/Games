@@ -1,5 +1,5 @@
 {
-  "Blocking": [
+  "Building": [
     {
       "id": "Block_A",
       "Name": "Block A",
@@ -354,7 +354,7 @@
       "Floor": [
         {
           "id": "Floor_CA",
-          "Name": "Floor A",
+          "Name": "Ground Floor",
           "Apartments": [
             {
               "ID": "Apart_CAA",
@@ -363,6 +363,54 @@
             },
             {
               "ID": "Apart_CAB",
+              "Area": "100",
+              "Status": "Not Sold"
+            }
+          ]
+        },
+        {
+          "id": "Floor_CB",
+          "Name": "Floor 1",
+          "Apartments": [
+            {
+              "ID": "Apart_CBA",
+              "Area": "100",
+              "Status": "Sold"
+            },
+            {
+              "ID": "Apart_CBB",
+              "Area": "100",
+              "Status": "Not Sold"
+            }
+          ]
+        },
+        {
+          "id": "Floor_CC",
+          "Name": "Floor 1",
+          "Apartments": [
+            {
+              "ID": "Apart_CCA",
+              "Area": "100",
+              "Status": "Sold"
+            },
+            {
+              "ID": "Apart_CCB",
+              "Area": "100",
+              "Status": "Not Sold"
+            }
+          ]
+        },
+        {
+          "id": "Floor_CD",
+          "Name": "Floor 1",
+          "Apartments": [
+            {
+              "ID": "Apart_CDA",
+              "Area": "100",
+              "Status": "Sold"
+            },
+            {
+              "ID": "Apart_CDB",
               "Area": "100",
               "Status": "Not Sold"
             }

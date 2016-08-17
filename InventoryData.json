@@ -11,12 +11,12 @@
             {
               "ID": "Apart_AAA",
               "Area": "100",
-              "Status": "Sold"
+              "Status": 0
             },
             {
               "ID": "Apart_AAB",
               "Area": "100",
-              "Status": "Not Sold"
+              "Status": 1
             }
           ]
         },
@@ -27,12 +27,12 @@
             {
               "ID": "Apart_ABA",
               "Area": "100",
-              "Status": "Sold"
+              "Status": 0
             },
             {
               "ID": "Apart_ABB",
               "Area": "100",
-              "Status": "Not Sold"
+              "Status": 1
             }
           ]
         },
@@ -43,12 +43,12 @@
             {
               "ID": "Apart_ACA",
               "Area": "100",
-              "Status": "Sold"
+              "Status": 0
             },
             {
               "ID": "Apart_ACB",
               "Area": "100",
-              "Status": "Not Sold"
+              "Status": 1
             }
           ]
         },
@@ -59,12 +59,12 @@
             {
               "ID": "Apart_ADA",
               "Area": "100",
-              "Status": "Sold"
+              "Status": 0
             },
             {
               "ID": "Apart_ADB",
               "Area": "100",
-              "Status": "Not Sold"
+              "Status": 1
             }
           ]
         },
@@ -75,12 +75,12 @@
             {
               "ID": "Apart_AEA",
               "Area": "100",
-              "Status": "Sold"
+              "Status": 0
             },
             {
               "ID": "Apart_AEB",
               "Area": "100",
-              "Status": "Not Sold"
+              "Status": 1
             }
           ]
         },
@@ -91,12 +91,12 @@
             {
               "ID": "Apart_AFA",
               "Area": "100",
-              "Status": "Sold"
+              "Status": 0
             },
             {
               "ID": "Apart_AFB",
               "Area": "100",
-              "Status": "Not Sold"
+              "Status": 1
             }
           ]
         },
@@ -107,12 +107,12 @@
             {
               "ID": "Apart_AGA",
               "Area": "100",
-              "Status": "Sold"
+              "Status": 0
             },
             {
               "ID": "Apart_AGB",
               "Area": "100",
-              "Status": "Not Sold"
+              "Status": 1
             }
           ]
         },
@@ -123,12 +123,12 @@
             {
               "ID": "Apart_AHA",
               "Area": "100",
-              "Status": "Sold"
+              "Status": 0
             },
             {
               "ID": "Apart_AHB",
               "Area": "100",
-              "Status": "Not Sold"
+              "Status": 1
             }
           ]
         },
@@ -139,12 +139,12 @@
             {
               "ID": "Apart_AIA",
               "Area": "100",
-              "Status": "Sold"
+              "Status": 0
             },
             {
               "ID": "Apart_AIB",
               "Area": "100",
-              "Status": "Not Sold"
+              "Status": 1
             }
           ]
         },
@@ -155,12 +155,12 @@
             {
               "ID": "Apart_AJA",
               "Area": "100",
-              "Status": "Sold"
+              "Status": 0
             },
             {
               "ID": "Apart_AJB",
               "Area": "100",
-              "Status": "Not Sold"
+              "Status": 1
             }
           ]
         },
@@ -171,12 +171,12 @@
             {
               "ID": "Apart_AKA",
               "Area": "100",
-              "Status": "Sold"
+              "Status": 0
             },
             {
               "ID": "Apart_AKB",
               "Area": "100",
-              "Status": "Not Sold"
+              "Status": 1
             }
           ]
         },
@@ -187,12 +187,12 @@
             {
               "ID": "Apart_ALA",
               "Area": "100",
-              "Status": "Sold"
+              "Status": 0
             },
             {
               "ID": "Apart_ALB",
               "Area": "100",
-              "Status": "Not Sold"
+              "Status": 1
             }
           ]
         },
@@ -203,12 +203,12 @@
             {
               "ID": "Apart_AMA",
               "Area": "100",
-              "Status": "Sold"
+              "Status": 0
             },
             {
               "ID": "Apart_AMB",
               "Area": "100",
-              "Status": "Not Sold"
+              "Status": 1
             }
           ]
         },
@@ -219,12 +219,12 @@
             {
               "ID": "Apart_ANA",
               "Area": "100",
-              "Status": "Sold"
+              "Status": 0
             },
             {
               "ID": "Apart_ANB",
               "Area": "100",
-              "Status": "Not Sold"
+              "Status": 1
             }
           ]
         },
@@ -235,12 +235,12 @@
             {
               "ID": "Apart_AOA",
               "Area": "100",
-              "Status": "Sold"
+              "Status": 0
             },
             {
               "ID": "Apart_AOB",
               "Area": "100",
-              "Status": "Not Sold"
+              "Status": 1
             }
           ]
         },
@@ -251,12 +251,12 @@
             {
               "ID": "Apart_APA",
               "Area": "100",
-              "Status": "Sold"
+              "Status": 0
             },
             {
               "ID": "Apart_APB",
               "Area": "100",
-              "Status": "Not Sold"
+              "Status": 1
             }
           ]
         },
@@ -267,12 +267,12 @@
             {
               "ID": "Apart_AQA",
               "Area": "100",
-              "Status": "Sold"
+              "Status": 0
             },
             {
               "ID": "Apart_AQB",
               "Area": "100",
-              "Status": "Not Sold"
+              "Status": 1
             }
           ]
         },
@@ -283,12 +283,12 @@
             {
               "ID": "Apart_ARA",
               "Area": "100",
-              "Status": "Sold"
+              "Status": 0
             },
             {
               "ID": "Apart_ARB",
               "Area": "100",
-              "Status": "Not Sold"
+              "Status": 1
             }
           ]
         },
@@ -299,12 +299,12 @@
             {
               "ID": "Apart_ASA",
               "Area": "100",
-              "Status": "Sold"
+              "Status": 0
             },
             {
               "ID": "Apart_ASB",
               "Area": "100",
-              "Status": "Not Sold"
+              "Status": 1
             }
           ]
         }
@@ -321,12 +321,12 @@
             {
               "ID": "Apart_BAA",
               "Area": "100",
-              "Status": "Sold"
+              "Status": 0
             },
             {
               "ID": "Apart_BAB",
               "Area": "100",
-              "Status": "Not Sold"
+              "Status": 1
             }
           ]
         },
@@ -337,12 +337,12 @@
             {
               "ID": "Apart_BBA",
               "Area": "100",
-              "Status": "Sold"
+              "Status": 0
             },
             {
               "ID": "Apart_BBB",
               "Area": "100",
-              "Status": "Not Sold"
+              "Status": 1
             }
           ]
         }
@@ -359,12 +359,12 @@
             {
               "ID": "Apart_CAA",
               "Area": "100",
-              "Status": "Sold"
+              "Status": 0
             },
             {
               "ID": "Apart_CAB",
               "Area": "100",
-              "Status": "Not Sold"
+              "Status": 1
             }
           ]
         },
@@ -375,12 +375,12 @@
             {
               "ID": "Apart_CBA",
               "Area": "100",
-              "Status": "Sold"
+              "Status": 0
             },
             {
               "ID": "Apart_CBB",
               "Area": "100",
-              "Status": "Not Sold"
+              "Status": 1
             }
           ]
         },
@@ -391,12 +391,12 @@
             {
               "ID": "Apart_CCA",
               "Area": "100",
-              "Status": "Sold"
+              "Status": 0
             },
             {
               "ID": "Apart_CCB",
               "Area": "100",
-              "Status": "Not Sold"
+              "Status": 1
             }
           ]
         },
@@ -407,12 +407,12 @@
             {
               "ID": "Apart_CDA",
               "Area": "100",
-              "Status": "Sold"
+              "Status": 0
             },
             {
               "ID": "Apart_CDB",
               "Area": "100",
-              "Status": "Not Sold"
+              "Status": 1
             }
           ]
         }
@@ -429,12 +429,12 @@
             {
               "ID": "Apart_DAA",
               "Area": "100",
-              "Status": "Sold"
+              "Status": 0
             },
             {
               "ID": "Apart_DAB",
               "Area": "100",
-              "Status": "Not Sold"
+              "Status": 1
             }
           ]
         }
@@ -451,12 +451,12 @@
             {
               "ID": "Apart_EAA",
               "Area": "100",
-              "Status": "Sold"
+              "Status": 0
             },
             {
               "ID": "Apart_EAB",
               "Area": "100",
-              "Status": "Not Sold"
+              "Status": 1
             }
           ]
         }

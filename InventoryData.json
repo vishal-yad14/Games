@@ -1,308 +1,308 @@
 {
-  "Building": [
+  "Blocking": [
     {
-      "id": "Build_0",
+      "id": "Block_A",
       "Name": "Block A",
       "Floor": [
         {
-          "id": "Floor_00",
+          "id": "Floor_AA",
           "Name": "Ground Floor",
           "Apartments": [
             {
-              "ID": "Apart_000",
+              "ID": "Apart_AAA",
               "Area": "100",
               "Status": "Sold"
             },
             {
-              "ID": "Apart_001",
+              "ID": "Apart_AAB",
               "Area": "100",
               "Status": "Not Sold"
             }
           ]
         },
         {
-          "id": "Floor_01",
+          "id": "Floor_AB",
           "Name": "Floor 1",
           "Apartments": [
             {
-              "ID": "Apart_010",
+              "ID": "Apart_ABA",
               "Area": "100",
               "Status": "Sold"
             },
             {
-              "ID": "Apart_011",
+              "ID": "Apart_ABB",
               "Area": "100",
               "Status": "Not Sold"
             }
           ]
         },
         {
-          "id": "Floor_02",
+          "id": "Floor_AC",
           "Name": "Floor 2",
           "Apartments": [
             {
-              "ID": "Apart_020",
+              "ID": "Apart_ACA",
               "Area": "100",
               "Status": "Sold"
             },
             {
-              "ID": "Apart_021",
+              "ID": "Apart_ACB",
               "Area": "100",
               "Status": "Not Sold"
             }
           ]
         },
         {
-          "id": "Floor_03",
+          "id": "Floor_AD",
           "Name": "Floor 3",
           "Apartments": [
             {
-              "ID": "Apart_030",
+              "ID": "Apart_ADA",
               "Area": "100",
               "Status": "Sold"
             },
             {
-              "ID": "Apart_031",
+              "ID": "Apart_ADB",
               "Area": "100",
               "Status": "Not Sold"
             }
           ]
         },
         {
-          "id": "Floor_04",
+          "id": "Floor_AE",
           "Name": "Floor 4",
           "Apartments": [
             {
-              "ID": "Apart_040",
+              "ID": "Apart_AEA",
               "Area": "100",
               "Status": "Sold"
             },
             {
-              "ID": "Apart_041",
+              "ID": "Apart_AEB",
               "Area": "100",
               "Status": "Not Sold"
             }
           ]
         },
         {
-          "id": "Floor_05",
+          "id": "Floor_AF",
           "Name": "Floor 5",
           "Apartments": [
             {
-              "ID": "Apart_050",
+              "ID": "Apart_AFA",
               "Area": "100",
               "Status": "Sold"
             },
             {
-              "ID": "Apart_051",
+              "ID": "Apart_AFB",
               "Area": "100",
               "Status": "Not Sold"
             }
           ]
         },
         {
-          "id": "Floor_06",
+          "id": "Floor_AG",
           "Name": "Floor 6",
           "Apartments": [
             {
-              "ID": "Apart_060",
+              "ID": "Apart_AGA",
               "Area": "100",
               "Status": "Sold"
             },
             {
-              "ID": "Apart_061",
+              "ID": "Apart_AGB",
               "Area": "100",
               "Status": "Not Sold"
             }
           ]
         },
         {
-          "id": "Floor_07",
+          "id": "Floor_AH",
           "Name": "Floor 7",
           "Apartments": [
             {
-              "ID": "Apart_070",
+              "ID": "Apart_AHA",
               "Area": "100",
               "Status": "Sold"
             },
             {
-              "ID": "Apart_071",
+              "ID": "Apart_AHB",
               "Area": "100",
               "Status": "Not Sold"
             }
           ]
         },
         {
-          "id": "Floor_08",
+          "id": "Floor_AI",
           "Name": "Floor 8",
           "Apartments": [
             {
-              "ID": "Apart_080",
+              "ID": "Apart_AIA",
               "Area": "100",
               "Status": "Sold"
             },
             {
-              "ID": "Apart_081",
+              "ID": "Apart_AIB",
               "Area": "100",
               "Status": "Not Sold"
             }
           ]
         },
         {
-          "id": "Floor_09",
+          "id": "Floor_AJ",
           "Name": "Floor 9",
           "Apartments": [
             {
-              "ID": "Apart_090",
+              "ID": "Apart_AJA",
               "Area": "100",
               "Status": "Sold"
             },
             {
-              "ID": "Apart_091",
+              "ID": "Apart_AJB",
               "Area": "100",
               "Status": "Not Sold"
             }
           ]
         },
         {
-          "id": "Floor_010",
+          "id": "Floor_AK",
           "Name": "Floor 10",
           "Apartments": [
             {
-              "ID": "Apart_0100",
+              "ID": "Apart_AKA",
               "Area": "100",
               "Status": "Sold"
             },
             {
-              "ID": "Apart_0101",
+              "ID": "Apart_AKB",
               "Area": "100",
               "Status": "Not Sold"
             }
           ]
         },
         {
-          "id": "Floor_011",
+          "id": "Floor_AL",
           "Name": "Floor 11",
           "Apartments": [
             {
-              "ID": "Apart_0110",
+              "ID": "Apart_ALA",
               "Area": "100",
               "Status": "Sold"
             },
             {
-              "ID": "Apart_0111",
+              "ID": "Apart_ALB",
               "Area": "100",
               "Status": "Not Sold"
             }
           ]
         },
         {
-          "id": "Floor_012",
+          "id": "Floor_AM",
           "Name": "Floor 12",
           "Apartments": [
             {
-              "ID": "Apart_0120",
+              "ID": "Apart_AMA",
               "Area": "100",
               "Status": "Sold"
             },
             {
-              "ID": "Apart_0121",
+              "ID": "Apart_AMB",
               "Area": "100",
               "Status": "Not Sold"
             }
           ]
         },
         {
-          "id": "Floor_013",
+          "id": "Floor_AN",
           "Name": "Floor 13",
           "Apartments": [
             {
-              "ID": "Apart_0130",
+              "ID": "Apart_ANA",
               "Area": "100",
               "Status": "Sold"
             },
             {
-              "ID": "Apart_0131",
+              "ID": "Apart_ANB",
               "Area": "100",
               "Status": "Not Sold"
             }
           ]
         },
         {
-          "id": "Floor_014",
+          "id": "Floor_AO",
           "Name": "Floor 14",
           "Apartments": [
             {
-              "ID": "Apart_0140",
+              "ID": "Apart_AOA",
               "Area": "100",
               "Status": "Sold"
             },
             {
-              "ID": "Apart_0141",
+              "ID": "Apart_AOB",
               "Area": "100",
               "Status": "Not Sold"
             }
           ]
         },
         {
-          "id": "Floor_015",
+          "id": "Floor_AP",
           "Name": "Floor 15",
           "Apartments": [
             {
-              "ID": "Apart_0150",
+              "ID": "Apart_APA",
               "Area": "100",
               "Status": "Sold"
             },
             {
-              "ID": "Apart_0151",
+              "ID": "Apart_APB",
               "Area": "100",
               "Status": "Not Sold"
             }
           ]
         },
         {
-          "id": "Floor_016",
+          "id": "Floor_AQ",
           "Name": "Floor 16",
           "Apartments": [
             {
-              "ID": "Apart_0160",
+              "ID": "Apart_AQA",
               "Area": "100",
               "Status": "Sold"
             },
             {
-              "ID": "Apart_0161",
+              "ID": "Apart_AQB",
               "Area": "100",
               "Status": "Not Sold"
             }
           ]
         },
         {
-          "id": "Floor_017",
+          "id": "Floor_AR",
           "Name": "Floor 17",
           "Apartments": [
             {
-              "ID": "Apart_0170",
+              "ID": "Apart_ARA",
               "Area": "100",
               "Status": "Sold"
             },
             {
-              "ID": "Apart_0171",
+              "ID": "Apart_ARB",
               "Area": "100",
               "Status": "Not Sold"
             }
           ]
         },
         {
-          "id": "Floor_018",
+          "id": "Floor_AS",
           "Name": "Terrace",
           "Apartments": [
             {
-              "ID": "Apart_0180",
+              "ID": "Apart_ASA",
               "Area": "100",
               "Status": "Sold"
             },
             {
-              "ID": "Apart_0181",
+              "ID": "Apart_ASB",
               "Area": "100",
               "Status": "Not Sold"
             }
@@ -311,36 +311,36 @@
       ]
     },
     {
-      "id": "Build_1",
+      "id": "Block_B",
       "Name": "Block B",
       "Floor": [
         {
-          "id": "Floor_10",
+          "id": "Floor_BA",
           "Name": "Ground Floor",
           "Apartments": [
             {
-              "ID": "Apart_100",
+              "ID": "Apart_BAA",
               "Area": "100",
               "Status": "Sold"
             },
             {
-              "ID": "Apart_101",
+              "ID": "Apart_BAB",
               "Area": "100",
               "Status": "Not Sold"
             }
           ]
         },
         {
-          "id": "Floor_10",
+          "id": "Floor_BB",
           "Name": "Floor 1",
           "Apartments": [
             {
-              "ID": "Apart_110",
+              "ID": "Apart_BBA",
               "Area": "100",
               "Status": "Sold"
             },
             {
-              "ID": "Apart_111",
+              "ID": "Apart_BBB",
               "Area": "100",
               "Status": "Not Sold"
             }
@@ -349,20 +349,20 @@
       ]
     },
     {
-      "id": "Build_2",
+      "id": "Block_C",
       "Name": "Block C",
       "Floor": [
         {
-          "id": "Floor_00",
+          "id": "Floor_CA",
           "Name": "Floor A",
           "Apartments": [
             {
-              "ID": "001",
+              "ID": "Apart_CAA",
               "Area": "100",
               "Status": "Sold"
             },
             {
-              "ID": "002",
+              "ID": "Apart_CAB",
               "Area": "100",
               "Status": "Not Sold"
             }
@@ -371,20 +371,20 @@
       ]
     },
     {
-      "id": "Build_3",
+      "id": "Block_D",
       "Name": "Block D",
       "Floor": [
         {
-          "id": "Floor_00",
+          "id": "Floor_DA",
           "Name": "Floor A",
           "Apartments": [
             {
-              "ID": "001",
+              "ID": "Apart_DAA",
               "Area": "100",
               "Status": "Sold"
             },
             {
-              "ID": "002",
+              "ID": "Apart_DAB",
               "Area": "100",
               "Status": "Not Sold"
             }
@@ -393,20 +393,20 @@
       ]
     },
     {
-      "id": "Build_4",
+      "id": "Block_E",
       "Name": "Block E",
       "Floor": [
         {
-          "id": "Floor_00",
+          "id": "Floor_EA",
           "Name": "Floor A",
           "Apartments": [
             {
-              "ID": "001",
+              "ID": "Apart_EAA",
               "Area": "100",
               "Status": "Sold"
             },
             {
-              "ID": "002",
+              "ID": "Apart_EAB",
               "Area": "100",
               "Status": "Not Sold"
             }

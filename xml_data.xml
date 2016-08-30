@@ -1,10 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameVersion>1.1</GameVersion>
 <levels>
-  <level>
-    <name>Level 1 </name>
-    <Instruction>There are 3 enemies in first level</Instruction>
-  </level>
-  <level>
-    <name>Level 2 </name>
-    <Instruction>There are 7 enemies in second level</Instruction>
-  </level>
+  <level name="Level 1" Instruction="There are 3 enemies in first level"> </level>
+  <level name="Level 2" Instruction="There are 5 enemies in second level"> </level>
+  <level name="Level 3" Instruction="There are 7 enemies in second level"> </level>
 </levels>

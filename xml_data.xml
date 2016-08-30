@@ -1,0 +1,10 @@
+<levels>
+  <level>
+    <name>Level 1 </name>
+    <Instruction>Try comes close to all four objects.</Instruction>
+  </level>
+  <level>
+    <name>Level 2 </name>
+    <Instruction>Try comes close to all four objects, again.</Instruction>
+  </level>
+</levels>

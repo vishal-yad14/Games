@@ -1,10 +1,10 @@
 <levels>
   <level>
     <name>Level 1 </name>
-    <Instruction>Try comes close to all four objects.</Instruction>
+    <Instruction>There are 3 enemies in first level</Instruction>
   </level>
   <level>
     <name>Level 2 </name>
-    <Instruction>Try comes close to all four objects, again.</Instruction>
+    <Instruction>There are 7 enemies in second level</Instruction>
   </level>
 </levels>

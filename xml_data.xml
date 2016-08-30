@@ -1,6 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<GameData>
-<GameVersion ver="1.1"></GameVersion>
-<LevelDetails levelType="Hard"></LevelDetails>
-</GameData>
+<GameData ver="1.1" levelType="Hard"></GameData>
 
